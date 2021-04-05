@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ada247</string>
+    <string name="name">Name</string>
+    <string name="user_name">Lakshay</string>
+    <string name="gender">Gender</string>
+    <string name="gende_m_f">Male</string>
+    <string name="email">Email</string>
+    <string name="abcgmail">lakshaymudgal340@gmail.com</string>
+    <string name="status">Status</string>
+    <string name="status_active_inactive">Active</string>
+    <string name="user_details">User Details</string>
+</resources>
